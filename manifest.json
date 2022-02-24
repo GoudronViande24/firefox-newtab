@@ -1,7 +1,7 @@
 {
 	"manifest_version": 2,
 	"name": "Artivain Newtab",
-	"version": "1.0",
+	"version": "1.1",
 	"description": "A simple new tab extension for Firefox",
 	"icons": {
 		"48": "src/icons/artivain.svg"
