@@ -17,4 +17,4 @@ Well it got accepted, the documentation is very clear. 24h and it got published 
 
 Download here:
 
-[![Firefox Modules](https://addons.mozilla.org/static-frontend/c6276b7c0dc392e3ce8668f12e68b83c.svg)](https://addons.mozilla.org/en-CA/firefox/addon/artivain-newtab/)
+[![Firefox Modules](https://addons.mozilla.org/static-frontend/c6276b7c0dc392e3ce8668f12e68b83c.svg)](https://addons.mozilla.org/en-US/firefox/addon/artivain-dashboard/)
