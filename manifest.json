@@ -1,15 +1,15 @@
 {
 	"manifest_version": 2,
-	"name": "Artivain Newtab",
-	"version": "1.1",
+	"name": "Artivain Dashboard",
+	"version": "2.0",
 	"description": "A simple new tab extension for Firefox",
 	"icons": {
-		"48": "src/icons/artivain.svg"
+		"48": "icon.svg"
 	},
 	"chrome_url_overrides": {
-		"newtab": "src/index.html"
+		"newtab": "index.html"
 	},
 	"chrome_settings_overrides": {
-		"homepage": "src/index.html"
+		"homepage": "index.html"
 	}
 }
