@@ -13,7 +13,9 @@ Well I'm broke, and it costs $20 for a dev account...
 
 ~~It's not available on Firefox's store yet, but they say it's free so maybe when I read the docs I will be able to make it public there!~~
 
-Well it got accepted, the documentation is very clear. 24h and it got published to the public store!
+~~Update: Well it got accepted, the documentation is very clear. 24h and it got published to the public store!~~
+
+Update: It got removed since v2, because I cannot use a newtab service hosted on a server...
 
 Download here:
 
